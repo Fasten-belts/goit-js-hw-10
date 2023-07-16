@@ -18,9 +18,12 @@ img {
 }
 
 .breed-select {
-  width: 20%;
   margin-left: 20px;
   margin-bottom: 5px;
+}
+
+.ss-main.breed-select {
+  width: 20%;
 }
 
 .loader {
